@@ -1,1 +1,25 @@
-
+{
+  "did": "did:web:nas2020.github.io:veridid",
+  "controllerKeyId": "045c6697c6ba0d54457fa31c5ec5a50b6d37fd76e4e9d3c175c25f5661f24f7c6c9e4389c5b6154fa363386d7c82f95d289543cfec6dc3aab5d49597174b4114b6",
+  "keys": [
+    {
+      "type": "Secp256k1",
+      "kid": "045c6697c6ba0d54457fa31c5ec5a50b6d37fd76e4e9d3c175c25f5661f24f7c6c9e4389c5b6154fa363386d7c82f95d289543cfec6dc3aab5d49597174b4114b6",
+      "publicKeyHex": "045c6697c6ba0d54457fa31c5ec5a50b6d37fd76e4e9d3c175c25f5661f24f7c6c9e4389c5b6154fa363386d7c82f95d289543cfec6dc3aab5d49597174b4114b6",
+      "meta": {
+        "algorithms": [
+          "ES256K",
+          "ES256K-R",
+          "eth_signTransaction",
+          "eth_signTypedData",
+          "eth_signMessage",
+          "eth_rawSign"
+        ]
+      },
+      "kms": "local"
+    }
+  ],
+  "services": [],
+  "provider": "did:web",
+  "alias": "nas2020.github.io:veridid"
+}
