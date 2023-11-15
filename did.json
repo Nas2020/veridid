@@ -15,5 +15,5 @@
   "assertionMethod": [
     "did:web:nas2020.github.io:veridid#controllerKeyId"
   ],
-  "services": [] // Add any services if required
+  "services": []
 }
